@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayantan Bairagi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayantan259" alt="sayantan259" /></a> </p>
-
 - 🌱 I’m currently learning **Springboot, AI/ML**
 
 - 💬 Ask me about **React, DSA, C++**
